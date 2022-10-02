@@ -22,18 +22,12 @@
 
     <h3>🔶 Menú Usuario 🔶</h3>
     En esta sección encontramos un pequeño mensaje referido a las funcionalidades del programa; a su vez la persona que esté utilizando la aplicación podrá elegir entre cargar una nueva reserva con su correspondiente huesped (en la sección registro de reservas) o revisar las reservas ya cargadas en el programa (en la sección búsqueda)
-    
-    ![image](https://user-images.githubusercontent.com/105081652/193457477-62555c94-2cc0-492a-b9fc-788e84f0899c.png)
-    
+  
     <h3>🔶 Reservas View 🔶</h3>
     Aquí el usuario deberá cargar los datos referidos a la reserva misma, es decir, fecha de check-in, fecha de check-out y forma de pago (dinero en efectivo, tarjeta de débito o crédito); lo interesante en este punto es que el valor de la reserva se calcula de forma automática en base a la cantidad de días que dure la reserva. En este caso y para fines prácticos, se asignó un precio de $1000 pesos por día para calcular dicho importe. Por cada reserva se genera automática un id que identifica a cada una.
-    
-    ![image](https://user-images.githubusercontent.com/105081652/193457609-806522d7-034e-405b-b123-4bcaee0d6141.png)
-    
+
     <h3>🔶 Registro Huesped 🔶</h3>
     Solo una vez que hayamos cargado completa y correctamente todos los datos de la reserva, pasamos a la sección siguiente, donde deberemos cargar los datos del huésped. A dicho huésped se le asignará de forma automática el id de la reserva correspondiente. De esta forma, la tabla huesped y reservas se encuentran relacionadas entre sí por medio de una foreign-key.
-    
-    ![image](https://user-images.githubusercontent.com/105081652/193457890-e6ba3bbf-0e10-4804-a290-5032fe28148d.png)
     
     <h3>🔶 Búsqueda 🔶</h3>
     Aquí el usuario será capaz de ver las reservas ya almacenadas en la base de datos así como también los datos de los huéspedes relacionados a dichas reservas; por ello se cuenta con dos secciones diferenciadas (una para reservas y otra para huéspedes) a las cuales se accede por medio de una botonera ubicada en la parte superior. En este menú se podrá realizar las siguientes acciones:
