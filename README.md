@@ -10,6 +10,7 @@
    
    <h3>🔶 Menú Principal 🔶</h3>
    Es la primera ventana del programa, la cual nos muestra una primera imagen de la misma a modo de bienvenida, cuenta con un botón para acceder a la sección de login
+   
    ![image](https://user-images.githubusercontent.com/105081652/193457286-2babc5ab-7a75-41be-ae41-ec7df5671051.png)
 
     <h3>🔶 Login 🔶</h3>
