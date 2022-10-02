@@ -16,6 +16,7 @@
     <h3 align="center">🔶 Login 🔶</h3>
     Aquí el usuario tendrá la posiblidad de loguearse en la aplicación, para lo cual deberá ingresar su usuario y su contraseña. Para tal validación se hace uso de la tabla user, la cual cuenta con tres cuentas ficticias para el ingreso al hotel.</p>
     <img src="https://user-images.githubusercontent.com/105081652/193459265-4762d15c-fbd3-4675-a885-5510d385661b.png">
+    <img src ="https://user-images.githubusercontent.com/105081652/193460090-1b73a19f-f504-45c3-92ac-ab89c7c69bce.png">
     <br>
 <p>
     <h3 align="center">🔶 Menú Usuario 🔶</h3>
@@ -24,7 +25,7 @@
     <br>
  <p>
     <h3 align="center">🔶 Reservas View 🔶</h3>
-    Aquí el usuario deberá cargar los datos referidos a la reserva misma, es decir, fecha de check-in, fecha de check-out y forma de pago (dinero en efectivo, tarjeta de débito o crédito); lo interesante en este punto es que el valor de la reserva se calcula de forma automática en base a la cantidad de días que dure la reserva. En este caso y para fines prácticos, se asignó un precio de $1000 pesos por día para calcular dicho importe. Por cada reserva se genera automática un id que identifica a cada una.</p>
+    Aquí el usuario deberá cargar los datos referidos a la reserva, es decir, fecha de check-in, fecha de check-out y forma de pago (dinero en efectivo, tarjeta de débito o crédito); lo interesante en este punto es que el valor de la reserva se calcula de forma automática en base a la cantidad de días que dure la reserva. En este caso y para fines prácticos, se asignó un precio de $1000 pesos por día para calcular dicho importe. Por cada reserva se genera automática un id.</p>
     <img src="https://user-images.githubusercontent.com/105081652/193459364-081f40c1-5210-42a8-b892-ea16970c3066.png">
     <br>
 <p>
@@ -34,7 +35,7 @@
     <br>
    <p> 
     <h3 align="center">🔶 Búsqueda 🔶</h3>
-    Aquí el usuario será capaz de ver las reservas ya almacenadas en la base de datos así como también los datos de los huéspedes relacionados a dichas reservas; por ello se cuenta con dos secciones diferenciadas (una para reservas y otra para huéspedes) a las cuales se accede por medio de una botonera ubicada en la parte superior. En este menú se podrá realizar las siguientes acciones:</p>
+    Aquí el usuario será capaz de ver las reservas ya almacenadas en la base de datos así como también los datos de los huéspedes relacionados a dichas reservas; por ello se cuenta con dos secciones diferenciadas (una para reservas y otra para huéspedes) a las cuales se accede por medio de una botonera ubicada en la parte superior. En este menú se podrán realizar las siguientes acciones:</p>
     <p>
      ✅ Filtrar búsquedas: buscar reservas por id de reserva o buscar huéspedes por el apellido. Para volver a ver la tabla completa con todos los datos almacenados, el usuario contará con el botón "mostrar todo", para limpiar los filtros antes usados.</p>
      <p>✅ Editar datos: tanto de los huéspedes como de las reservas, con la salvedad de que en el caso de las reservas no se podrá editar el id de las mismas ni tampoco el monto (este se modifica automáticamente en función de los cambios de fecha que introduzca el usuario, manteniendo un precio de $1000 pesos por día), mientras que en el caso de los huéspedes no se podrá modificar el id ni tampoco el id de reserva que corresponda a cada uno.</p>
