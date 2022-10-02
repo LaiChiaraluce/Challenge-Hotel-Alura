@@ -10,7 +10,7 @@
    <br>
    <h3 align="center">🔶 Menú Principal 🔶</h3>
    <p>Es la primera ventana del programa, la cual nos muestra una primera imagen de la misma a modo de bienvenida, cuenta con un botón para acceder a la sección de login</p>
-   <img src=![image](https://user-images.githubusercontent.com/105081652/193459254-a804b682-70a0-4725-996e-90f00394fecd.png)>
+   <img src="https://user-images.githubusercontent.com/105081652/193459254-a804b682-70a0-4725-996e-90f00394fecd.png">
    <br>
  <p>
     <h3 align="center">🔶 Login 🔶</h3>
