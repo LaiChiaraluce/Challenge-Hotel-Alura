@@ -13,8 +13,8 @@
    
    ![image](https://user-images.githubusercontent.com/105081652/193457286-2babc5ab-7a75-41be-ae41-ec7df5671051.png)
 
-    <h3>🔶 Login 🔶</h3>
-    Aquí el usuario tendrá la posiblidad de loguearse en la aplicación, para lo cual deberá ingresar su usuario y su contraseña. Para tal validación se hace uso de la tabla user, la cual cuenta con tres cuentas ficticias para el ingreso al hotel:
+    🔶 Login 🔶
+    Aquí el usuario tendrá la posiblidad de loguearse en la aplicación, para lo cual deberá ingresar su usuario y su contraseña. Para tal validación se hace uso de la tabla user, la cual cuenta con tres cuentas ficticias para el ingreso al hotel.
    
    ![image](https://user-images.githubusercontent.com/105081652/193456937-f2a4bce2-271b-4ef4-bcf2-28f7286ee4ff.png)
    
